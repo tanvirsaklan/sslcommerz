@@ -1,4 +1,4 @@
-# 📦 SSLCOMMERZ - Rust ([sslcommerz - crates.io](https://crates.io/crates/rustmimsms))
+# 📦 SSLCOMMERZ - Rust ([sslcommerz - crates.io](https://crates.io/crates/sslcommerz))
 
 Rust SDK for integrating SSLCommerz payment gateway into your applications.
 

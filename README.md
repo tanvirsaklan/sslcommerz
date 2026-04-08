@@ -1,4 +1,4 @@
-# 📦 SSLCOMMERZ - Rust ([sslcommerz - crates.io](https://crates.io/crates/sslcommerz))
+# 📦 SSLCOMMERZ - Rust
 
 Rust SDK for integrating SSLCommerz payment gateway into your applications.
 
@@ -25,7 +25,7 @@ cargo add sslcommerz
 Or manually in `Cargo.toml`:
 
 ```toml
-sslcommerz = "0.1.0"
+sslcommerz = "0.1.1"
 ```
 
 ---
